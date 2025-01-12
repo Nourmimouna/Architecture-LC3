@@ -10,7 +10,7 @@ Ce projet implémente un processeur **LC3** dans **Logisim**, incluant toutes le
 
 - **`lc-3.circ`** : Fichier principal du processeur LC3 construit sous Logisim.
 - **`programs/`** : Programmes LC3 au format assembleur.
-- **`Projet_Architecture_LC3/`** : Documentation technique expliquant la conception des composants, avec des schémas et explications.
+- **`Architecture_LC3/`** : Documentation technique expliquant la conception des composants, avec des schémas et explications.
 
 ### 📜 Instructions supportées
 Le processeur supporte l'ensemble des instructions LC3 classiques ainsi que l'instruction BitScan : BSF- bit scan forward , BSB - bit scan backwards.
